@@ -1,2 +1,2 @@
-# styles-templates
-CSS styles templates
+# Styles Templates
+CSS styles templates for a websites

@@ -1,1 +1,1 @@
-Those CSS style templates were made with the community open-source IDE VsCodium.
+Those were made with the community open-source IDE VsCodium.

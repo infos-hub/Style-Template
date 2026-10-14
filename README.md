@@ -1,2 +1,2 @@
 # Styles Templates
-The open-source CSS style templates for websites.
+The open-source CSS style template for websites.

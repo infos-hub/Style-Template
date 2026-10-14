@@ -1,1 +1,1 @@
-Those were made with the community open-source IDE VsCodium.
+This was made with the community open-source IDE VsCodium.
